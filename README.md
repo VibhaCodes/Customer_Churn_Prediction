@@ -53,3 +53,18 @@ Using a structured dataset of customer details, this project aims to answer:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/customer-churn-prediction.git
+
+
+2. Navigate to the project folder:
+   ```bash
+   cd customer-churn-prediction
+
+
+3. Install the required libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn 
+
+
+4. Launch the Jupyter Notebook:
+   ```bash
+   jupyter notebook Customer_Churn_Prediction_using_ML.ipynb
